@@ -1,0 +1,28 @@
+:root {
+  --backColorBlue: #F0FFFF;
+  --colorBlue: #0096FF;
+
+  --backColorWalter: #40E0D0;
+  --colorWalter: #008080;
+
+  --backColorRed: #f6d5d4;
+  --colorRed: #EC5800;
+
+  --backColorGreen: #ECFFDC;
+  --colorGreen: #2E8B57; 
+
+  --backColorYellow: #FFFAA0;
+  --colorYellow: #FFBF00;
+
+  --backColorPurple: #CBC3E3;
+  --colorPurple: #7F00FF;
+
+  --backColorBrown: #F5DEB3;
+  --colorBrown: #80461B;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 1.02em;
+}

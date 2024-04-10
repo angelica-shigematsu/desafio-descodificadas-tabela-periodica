@@ -1,0 +1,56 @@
+table{
+  width: 80%;
+}
+.table-content {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.element-symbol {
+  font-size: 1.5em;
+  font-size: bold;
+}
+
+.element-name {
+  font-size: 0.8em;
+}
+
+.backColorBlue {
+  background-color: var(--backColorBlue);
+  color: var(--colorBlue);
+}
+
+.backColorWalter {
+  background-color: var(--backColorWalter);
+  color: var(--colorWalter);
+}
+
+.backColorGreen {
+  background-color: var(--backColorGreen);
+  color: var(--colorGreen);
+}
+
+.backColorRed {
+  background-color: var(--backColorRed);
+  color: var(--colorRed);
+}
+
+.squareEmpty {
+  width: 3%;
+}
+
+.backColorYellow {
+  background-color: var(--backColorYellow);
+  color: var(--colorYellow);
+}
+
+.backColorPurple {
+  background-color: var(--backColorPurple);
+  color: var(--colorPurple);
+}
+
+.backColorBrown {
+  background-color: var(--backColorBrown);
+  color: var(--colorBrown);
+}
