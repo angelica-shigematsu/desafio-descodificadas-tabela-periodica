@@ -19,10 +19,51 @@
 
   --backColorBrown: #F5DEB3;
   --colorBrown: #80461B;
+
+  --backColorPink: #FFC0CB;
+  --colorPink: #FF647F;
+
+  --backColorOrange: #FFD68A;
+  --colorOrange: #FF8300;
 }
 
 * {
   margin: 0;
   padding: 0;
   font-size: 1.02em;
+}
+body {
+  background-color: #000;
+}
+
+.table-content {
+  padding: 2% 10px;
+}
+
+.title{
+  text-align: center;
+}
+
+header {
+  background-color: #FFC300;
+  padding: 2%;
+}
+
+table {
+  margin-left: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+td {
+  border: 2px solid #000;
+}
+
+td:hover {
+  cursor: pointer;
+}
+
+.squareEmpty:hover {
+  cursor: not-allowed;
 }

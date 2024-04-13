@@ -54,3 +54,13 @@ table{
   background-color: var(--backColorBrown);
   color: var(--colorBrown);
 }
+
+.backColorPink {
+  background-color: var(--backColorPink);
+  color: var(--colorPink);
+}
+
+.backColorOrange {
+  background-color: var(--backColorOrange);
+  color: var(--colorOrange);
+}
